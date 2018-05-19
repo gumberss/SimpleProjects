@@ -1,0 +1,6 @@
+D:\Projetos\GitHub\Naive Bayes\Naive Bayes\bin\Debug\Naive Bayes.exe.config
+D:\Projetos\GitHub\Naive Bayes\Naive Bayes\bin\Debug\Naive Bayes.exe
+D:\Projetos\GitHub\Naive Bayes\Naive Bayes\bin\Debug\Naive Bayes.pdb
+D:\Projetos\GitHub\Naive Bayes\Naive Bayes\obj\Debug\Naive Bayes.csproj.CoreCompileInputs.cache
+D:\Projetos\GitHub\Naive Bayes\Naive Bayes\obj\Debug\Naive Bayes.exe
+D:\Projetos\GitHub\Naive Bayes\Naive Bayes\obj\Debug\Naive Bayes.pdb

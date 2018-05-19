@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naive Bayes", "Naive Bayes\Naive Bayes.csproj", "{076E52AD-1A98-4A18-89D3-B2DC87E94296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayesTest", "NaiveBayesTest\NaiveBayesTest.csproj", "{756F0129-BD77-455C-90E7-5A62CA2CAD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076E52AD-1A98-4A18-89D3-B2DC87E94296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076E52AD-1A98-4A18-89D3-B2DC87E94296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076E52AD-1A98-4A18-89D3-B2DC87E94296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076E52AD-1A98-4A18-89D3-B2DC87E94296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756F0129-BD77-455C-90E7-5A62CA2CAD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756F0129-BD77-455C-90E7-5A62CA2CAD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756F0129-BD77-455C-90E7-5A62CA2CAD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756F0129-BD77-455C-90E7-5A62CA2CAD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551C1B79-27F6-4B3A-B510-4625D20C2C00}
+	EndGlobalSection
+EndGlobal

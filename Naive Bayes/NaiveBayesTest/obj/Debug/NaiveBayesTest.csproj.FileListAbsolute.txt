@@ -1,0 +1,25 @@
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\obj\Debug\NaiveBayesTest.csprojResolveAssemblyReference.cache
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\obj\Debug\NaiveBayesTest.csproj.CoreCompileInputs.cache
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\NaiveBayesTest.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\NaiveBayesTest.pdb
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\FluentAssertions.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Naive Bayes.exe
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\nunit.framework.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\System.ValueTuple.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Naive Bayes.pdb
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Naive Bayes.exe.config
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\FluentAssertions.pdb
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\FluentAssertions.xml
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\nunit.framework.pdb
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\nunit.framework.xml
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\bin\Debug\System.ValueTuple.xml
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\obj\Debug\NaiveBayesTest.csproj.CopyComplete
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\obj\Debug\NaiveBayesTest.dll
+D:\Projetos\GitHub\Naive Bayes\NaiveBayesTest\obj\Debug\NaiveBayesTest.pdb
